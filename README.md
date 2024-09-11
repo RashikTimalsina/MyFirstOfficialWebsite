@@ -74,4 +74,3 @@ A brief description of what this project is it is specially made for the college
 
 # Day 14:
 * Project Deployed to vercel.
-* Live Link:- [Portfoliocollegeproject](https://portfoliositecollegeproject.vercel.app/)
